@@ -52,4 +52,4 @@ public class Page1Log {
 		PageFactory.initElements(driver, this);
 	}
 
-}
+}//continued
